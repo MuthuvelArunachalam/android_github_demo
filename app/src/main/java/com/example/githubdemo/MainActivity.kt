@@ -13,5 +13,7 @@ class MainActivity : AppCompatActivity() {
         Log.e("Dev Branch Changes","Tag...1 Dev")
 
         Log.e("Dev Branch First Changes","tag Cherry pick one")
+
+        Log.e("Dev Branch Second Changes","tag Cherry pick two")
     }
 }
