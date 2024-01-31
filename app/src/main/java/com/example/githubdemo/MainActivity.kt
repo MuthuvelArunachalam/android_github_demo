@@ -16,5 +16,9 @@ class MainActivity : AppCompatActivity() {
         //Change comment in versioniung 2
         Log.d("Versioning Changes in versioning branch","Tag...2")
         //Versioning branch
+
+        //Change comment in versioniung 3
+        Log.d("Versioning Changes in versioning branch","Tag...3")
+        //Versioning branch
     }
 }
